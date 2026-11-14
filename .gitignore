@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+fps_log.txt
+.vscode/
+.idea/

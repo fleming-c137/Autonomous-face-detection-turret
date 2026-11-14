@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the project report."
+title: "Development of an Autonomous Turret with Face Detection for Localised Security"
+type: software
+authors:
+  - family-names: Airunugba
+    given-names: Fleming Olabisi
+  - family-names: Onoja
+    given-names: Jerome Idoko
+date-released: 2025-07-01
+preferred-citation:
+  type: thesis
+  title: "Development of an Autonomous Turret with Face Detection for Localised Security"
+  authors:
+    - family-names: Airunugba
+      given-names: Fleming Olabisi
+    - family-names: Onoja
+      given-names: Jerome Idoko
+  year: 2025
+  thesis-type: "B.Eng. project report"
+  institution:
+    name: "Air Force Institute of Technology, Kaduna, Nigeria"
